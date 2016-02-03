@@ -1,7 +1,7 @@
 
 
 body {
-  width: 80%;
+  width: 60%;
   padding: 20px;
   margin: 0 auto;
   box-shadow: 10px 10px 10px rgba(0,0,0,.5);
@@ -32,11 +32,25 @@ h3 {
   margin: 0;
 }
 
+img {
+	  text-align:center;
+}
+
+hr {
+		background-color: green;
+    height: 3px;
+}
+
 .p1{
+	color: orange;
+}
+
+strong {
 	color: orange;
 }
 
 .note{
 	background-color: yellow;
 	border-style: dashed;
+	text-align: center;
 }
