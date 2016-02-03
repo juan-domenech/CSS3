@@ -50,6 +50,9 @@ strong {
 }
 
 .note{
+	width: 80%;
+  padding: 20px;
+  margin: 0 auto;
 	background-color: yellow;
 	border-style: dashed;
 	text-align: center;
